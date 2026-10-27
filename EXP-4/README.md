@@ -9,4 +9,4 @@
 
 **Result:** Successfully created an interactive mobile network protocol stack prototype using Figma.
 
-**Figma Link:** (https://www.figma.com/proto/rKebhl8ZyNTPDcq8VR2HS7/Untitled?node-id=2-3&p=f&t=bhu53cF5gEblCNqm-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2)
+**Figma Link:** (https://www.figma.com/proto/rKebhl8ZyNTPDcq8VR2HS7/Untitled?node-id=2-2&p=f&t=bhu53cF5gEblCNqm-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2)
